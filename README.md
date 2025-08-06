@@ -34,6 +34,15 @@
 ### 📱 Mobile
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+---
+
+## 🎓 Certificados
+
+Confira alguns dos cursos e especializações que concluí no meu repositório de certificados:
+
+🔗 [Repositório de Certificados](https://github.com/NextZoddCode/Certificates)
+
+---
 
 ## 📫 Fala comigo
 
